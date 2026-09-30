@@ -3,3 +3,4 @@ Liste de courses
 - pizza
 - gâteau au chocolat
 - glaçons
+-serviettes
